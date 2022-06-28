@@ -220,21 +220,48 @@ input[type=checkbox] {
 /* End Homescreen */
 
 /* Start Aboutscreen */
+.screen-about {
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.screen-about-text {
+    padding: 5%;
+    text-align: end;
+    
+    width: 40vw;
+}
+.screen-about-img {
+    width: 60vw;
+}
 screen.about-img {
-    width: 50vw;
+    width: 60vw;
+    position: relative;
+    left: 0;
 }
 
 .about-img-1 {
     width: 300px;
     height: auto;
+
+    position: absolute;
+    left: 0;
 }
 .about-img-2 {
-    width: 500px;
+    width: 300px;
     height: auto;
+    position: absolute;
+    /* left: 0; */
 }
 .about-img-3 {
-    width: 600px;
+    width: 300px;
     height: auto;
+    position: absolute;
+    left: 0;
 }
 
 /* End Aboutscreen */
