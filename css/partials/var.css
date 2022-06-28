@@ -1,24 +1,19 @@
 
 /* CSS Variables */
 :root {
-    --color1: #DEEAF6;
-    --color2: #93B1C5;
-    --color3: #737280;
-    --color4: #3D462F;
-    --color5: #D8840F;
+    --color1: #ffcdb2;
+    --color2: #ffb4a2;
+    --color3: #e5989b;
+    --color4: #b5838d;
+    --color5: #6d6875;
 
-    --color6: #8ecae6;
-    --color7: #219ebc;
-    --color8: #023047;
-    --color9: #ffb703;
-    --color10: #fb8500;
+    --color6: #22223b;
+    --color7: #4a4e69;
+    --color8: #9a8c98;
+    --color9: #c9ada7;
+    --color10: #f2e9e4;
 
-    --colortext: #1d3557;
-    --colortext2: #fff;
-
-    --bgcolor1:#DEEAF6;
-    --bgcolor2:#b6cfea;
-    --bgcolor3:#8ca9ca;
+    
 
 
     --roboto: 'Roboto', sans-serif;
